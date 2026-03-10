@@ -8,13 +8,13 @@ The goal of this project is to identify patterns in passenger satisfaction and h
 ---
 
 ## Dashboard Preview
-
+![Dashboard Preview](british-airways-reviews.png)
 ---
 
 ## Live Interactive Dashboard
-
-**View Dashboard:**  
-[https://public.tableau.com/ (https://public.tableau.com/views/british_airways_reviews_17731115515340/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ 
+**View Interactive Dashboard:**  
+[British Airways Reviews Dashboard](https://public.tableau.com/views/british_airways_reviews_17731115515340/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
